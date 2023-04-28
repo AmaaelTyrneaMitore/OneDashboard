@@ -1,11 +1,15 @@
 
 # 🟥 One-Dashboard 
 
-A clean 💫 dashboard for increased 🚀 productivity and smooth workflow.
+![2023-04-28-15:59:15-selection](https://user-images.githubusercontent.com/96770927/235124472-31ae96b5-1fc6-4d38-83de-5ea4567bef01.png)
 
+A clean 💫 dashboard for increased 🚀 productivity and smooth workflow.
 - Created with pure HTML, CSS and JavaScript. No external framework.
 - Themed accurately to match with Zomato's branding.
 - Have all the quick links that an agent might require in their workflow.
+
+![demo-new](https://user-images.githubusercontent.com/96770927/235123825-db98159f-df3d-4cef-8032-eecceea7e68f.gif)
+
 
 ## Supported Browsers
 - Brave (1.42)  [latest as of 5/2023]
