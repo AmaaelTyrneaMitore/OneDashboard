@@ -18,7 +18,7 @@ A clean 💫 dashboard for increased 🚀 productivity and smooth workflow.
 - Also, it is recommended to change your browser's main them to the official color of Zomato's branding i.e. `#e23744` to match with the theming of your dashboard. The steps for doing so are mentioned below:
     + **For Chrome**: `Click on 3 dots > Settings > Customise your chrome profile > The click on the color picker > Fill the following for RGB values: (R: 226, G: 55 and B: 68)`
     + **For Brave:** `Click on hamburger menu (3 lines) > Settings > Profile name and icon > Click on the color picker and fill the following for RGB values: (R: 226, G: 55 and B: 68)`
-- After doing the above steps, either clone this repository if you have `git` installed by running `git clone https://github.com/AmaaelTyrneaMitore/OneDashboard.git`. Or you can also download this repository as a zip file by clicking _**[here](https://github.com/AmaaelTyrneaMitore/OneDashboard)**_.
+- After doing the above steps, either clone this repository if you have `git` installed by running `git clone https://github.com/AmaaelTyrneaMitore/OneDashboard.git`. Or you can also download this repository as a zip file by clicking _**[here](https://github.com/AmaaelTyrneaMitore/OneDashboard/archive/refs/heads/main.zip)**_.
 - After downloading, unzip it (_if downloaded it as a zip_). Now open your preferred browser, go to `Extensions (the jigsaw puzzle icon) > Click on Manage Extensions > Enable Developer Mode > Click on Load Unpacked > Now select the folder that you extracted` and __**VOILA!!**__
 - Now, all you have to do is open a new tab to check if it is working or not.
 ## Feedback
