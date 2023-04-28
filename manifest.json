@@ -1,0 +1,12 @@
+{
+  "name": "One-Dashboard",
+  "description": "A clean dashboard for increased productivity and smooth workflow.",
+  "version": "1.0",
+  "chrome_url_overrides": { "newtab": "index.html" },
+  "manifest_version": 2,
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  }
+}
